@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yshoot360.github.io/kora-autos/sitemap.xml
